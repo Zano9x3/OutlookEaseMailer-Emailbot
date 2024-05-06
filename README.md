@@ -1,2 +1,2 @@
 # OutlookEaseMailer-Emailbot
- "OutlookEaseMailer" is a small too built to send the same email to  multiple recipients 
+The OutlookEaseMailer project provides a convenient way for users to compose and send emails without needing to open a separate email client. It offers a straightforward interface with input fields for recipients, subject, and body content, along with buttons for managing recipients and sending the email. The MainWindow.xaml.cs file contains the backend logic for handling user interactions and email sending functionality. This project aims to streamline the email sending process for users, making it quick and hassle-free.
